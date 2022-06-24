@@ -17,7 +17,7 @@ on:
       appleIdPwd:
         description: 'Apple ID Password'
         required: true
-        default: 'AppleId-_-21'
+        default: ''
       operation:
         description: 'Operation to do, choices: lookup, historyver, download, historyver_id, download_id'
         default: 'download_id'
